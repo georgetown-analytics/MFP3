@@ -1,8 +1,8 @@
 # FP3
+Project Title: Financial Performance Prediction Project (FP3)
 Cohort 11 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
 
-Project Title: Financial Performance Prediction Project (FP3)
-Release Date: 30 June 2018
+Expected Release Date: 30 June 2018
 
 Purpose: To predict whether stock prices will rise or fall within the first three months after an IPO
 
