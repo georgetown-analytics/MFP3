@@ -16,4 +16,4 @@ Output:
 
 Intended Users: The curious and casual.
 
-Team Assessment: This version of the model performs best for .... and does not give helpful advice when .... We believe that adding ..... will improve model performance.
+Team Assessment: This version of the model performs best for .... and does not give helpful advice when .... We believe adding ..... will improve model performance.
