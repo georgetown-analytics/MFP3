@@ -10,9 +10,11 @@ Team Members: MD Alam, Riley Back, Melissa Burn, Michael Iapalucci, Murali Kanna
 
 Methodology: Assess the sentiment of news headlines about the subject IPO for the period leading up to and immediately after the IPO release (NLP = Empathy). Then, using a classification-focused machine learning algorithm trained on 5500 headlines covering 16 IPOs between 2010 and 2017, predict whether the stock will rise or fall in the first 3 months.  
 
-Required Input:
+Required Input: 
+> FOR THE IPO: IPO Company, ticker symbol, industry, release date, manager, offer price
+> FOR EACH HEADLINE: Headline text, source publication, date, day of the week, source tier, IPO Company
 
-Output:
+Predictive Output: "Up" or "Down" indicator of stock performance over first 90 days
 
 Intended Users: The curious and casual.
 
