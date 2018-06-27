@@ -8,7 +8,7 @@ Purpose: To predict whether stock prices will rise or fall within the first thre
 
 Team Members: MD Alam, Riley Back, Melissa Burn, Michael Iapalucci, Murali Kannan
 
-Methodology: Assess the sentiment of news headlines about the subject IPO for the period leading up to and immediately after the IPO release (NLP = Empathy). Then, using a classification-focused machine learning algorithm trained on 5500 headlines covering 16 IPOs between 2010 and 2017, predict whether the stock will rise or fall in the first 3 months.  
+Methodology: Assess the sentiment of news headlines about the subject IPO for the period leading up to and after the IPO release. Then, using a classification-focused machine learning algorithm trained on 5500 headlines covering 16 IPOs between 2010 and 2017, train a prediction model on the target of whether the stock will rise or fall in the first 3 months. After training, the model was tested on a newer IPO, released subsequent to the first data capture.
 
 Required Input: 
 > FOR THE IPO: IPO Company, ticker symbol, industry, release date, manager, offer price
