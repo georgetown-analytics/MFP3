@@ -1,0 +1,368 @@
+,Headline,Source,Date,Word Count,Company,neutral,weakneg,weakpos,strongpos,strongneg
+0,*Docusign Files for IPO,Dow Jones Institutional News,3/28/2018,109,Docusign,0,0,0,0,0
+1,*DocuSign Inc. IPO Offering 16M Shares at $24-$26 a Share,Dow Jones Institutional News,4/17/2018,27,Docusign,0,0,0,0,0
+2,*DocuSign Now Sees 16M-Share IPO Pricing at $26-$28 A Share,Dow Jones Institutional News,4/25/2018,71,Docusign,0,0,0,0,0
+3,*DocuSign Updates IPO Filing,Dow Jones Institutional News,4/3/2018,60,Docusign,0,0,0,0,0
+4,*DropBox Inc. Files for IPO,Dow Jones Institutional News,2/23/2018,35,Dropbox,0,0,0,0,0
+5,"*Dropbox IPO Prices at $21 a Share, Above Expected Range -- Source",Dow Jones Institutional News,3/22/2018,25,Dropbox,0,0,1,0,0
+6,"*Dropbox Opens At $29, Above IPO Price of $21",Dow Jones Institutional News,3/23/2018,23,Dropbox,0,0,1,0,0
+7,"*Dropbox Revises IPO Terms to 36M Class A Common Shares, $18-$20/Share",Dow Jones Institutional News,3/21/2018,53,Dropbox,0,0,0,0,0
+8,"*Dropbox Sets IPO Terms at 36M Class A Common Shrs, $16-$18/Shr",Dow Jones Institutional News,3/12/2018,53,Dropbox,0,0,0,0,0
+9,06:31 EDT Dropbox 36M share IPO price range raised to $18.00-$20.00Dropbox's IPO...,Theflyonthewall.com,3/21/2018,61,Dropbox,0,0,0,0,0
+10,06:32 EDT Docusign IPO range raised to $26.00-$28.00 from...,Theflyonthewall.com,4/25/2018,67,Docusign,0,0,0,0,0
+11,08:31 EDT JMP raises DocuSign target to $63 after 'great' first post-IPO report...,Theflyonthewall.com,6/8/2018,100,Docusign,0,0,2,0,0
+12,"09:49 EDT Dropbox IPO bodes well, Barron's saysIn a follow-up article after...",Theflyonthewall.com,2/24/2018,96,Dropbox,0,0,0,1,0
+13,10:43 EDT Dropbox IPO indicated to open at $27.50The company priced 36M shares...,Theflyonthewall.com,3/23/2018,52,Dropbox,0,0,0,0,0
+14,10:46 EDT Dropbox IPO indicated to open at $28.00The company priced 36M shares...,Theflyonthewall.com,3/23/2018,53,Dropbox,0,0,0,0,0
+15,"10:52 EDT Docusign indicated to open at $34.50, IPO priced at $29.00Docusign...",Theflyonthewall.com,4/27/2018,61,Docusign,0,0,0,0,0
+16,"10:59 EDT Docusign indicated to open at $36.60, IPO priced at $29.00",Theflyonthewall.com,4/27/2018,30,Docusign,0,0,0,0,0
+17,11:02 EDT Dropbox IPO indicated to open at $28.15The company priced 36M shares...,Theflyonthewall.com,3/23/2018,52,Dropbox,0,0,0,0,0
+18,"11:07 EDT Docusign indicated to open at $37.00, IPO priced at $29.00",Theflyonthewall.com,4/27/2018,30,Docusign,0,0,0,0,0
+19,11:08 EDT Dropbox IPO indicated to open at $28.50,Theflyonthewall.com,3/23/2018,21,Dropbox,0,0,0,0,0
+20,11:21 EDT Dropbox IPO indicated to open at $28.00,Theflyonthewall.com,3/23/2018,21,Dropbox,0,0,0,0,0
+21,"11:22 EDT Docusign indicated to open at $39.00, IPO priced at $29.00",Theflyonthewall.com,4/27/2018,30,Docusign,0,0,0,0,0
+22,"11:29 EDT Docusign opens at $38.00, IPO priced at $29.00 per share",Theflyonthewall.com,4/27/2018,30,Docusign,0,0,0,0,0
+23,"11:32 EDT Dropbox IPO seen pricing near $18, Bloomberg saysAs previously...",Theflyonthewall.com,3/20/2018,74,Dropbox,0,0,0,0,0
+24,"11:36 EDT Dropbox opens for trade at $29, IPO priced at $21",Theflyonthewall.com,3/23/2018,25,Dropbox,0,0,0,0,0
+25,"15:23 EDT Dropbox files for IPO, sees listing on Nasdaq with ticker...",Theflyonthewall.com,2/23/2018,97,Dropbox,0,0,0,0,0
+26,"17:09 EDT Dropbox to price IPO at $21 per share, CNBC reportsDropbox has priced...",Theflyonthewall.com,3/22/2018,67,Dropbox,0,0,0,0,0
+27,17:12 EDT Dropbox 36M share IPO priced at $21.00The deal priced above its...,Theflyonthewall.com,3/22/2018,48,Dropbox,0,0,1,1,0
+28,19:09 EDT Docusign 21.7M share IPO priced at $29.00The deal priced above the...,Theflyonthewall.com,4/26/2018,50,Docusign,0,0,1,1,0
+29,"After IPO, Dropbox Stock Gains More Than 35% -- MarketWatch",Dow Jones Institutional News,3/23/2018,212,Dropbox,0,0,0,1,0
+30,"Ahead Of Dropbox IPO, DA Davidson Takes Bullish Position On Cloud Storage Company",Benzinga.com,3/21/2018,306,Dropbox,2,0,2,0,0
+31,All Tech Eyes On Dropbox IPO As Its Target Valuation Disappoints,MediaPost.com,3/13/2018,779,Dropbox,0,0,0,0,2
+32,Analysts Initiate Coverage Of DocuSign Following IPO Quiet Period,Benzinga.com,5/22/2018,436,Docusign,0,0,0,0,0
+33,"Box CEO on Dropbox IPO: Weâre like Salesforce, theyâre like Netflix; Q&A: Aaron Levie says Dropbox is an âattractive business,â just nothing like his",MarketWatch,3/24/2018,1479,Dropbox,0,0,0,4,0
+34,BREAKINGVIEWS-Dropbox IPO comes with too much vapor,Reuters News,3/12/2018,441,Dropbox,2,0,0,0,2
+35,BRIEF-Docusign Inc Files For IPO Of Up To $100 Million,Reuters News,3/28/2018,120,Docusign,0,0,0,0,0
+36,BRIEF-Docusign Inc Says Now Sees IPO Price Of Common Stock Will Be Between $26.00 And $28.00 Per Share,Reuters News,4/25/2018,88,Docusign,0,0,0,0,0
+37,BRIEF-Docusign Inc Sees IPO Of 21.7 Million Shares Priced Between $24 And $26 Per Share - SEC Filing,Reuters News,4/17/2018,85,Docusign,0,0,0,0,0
+38,BRIEF-Docusign Prices IPO Of 21.7 mln Common Shares Priced At $29 per Share,Reuters News,4/26/2018,50,Docusign,0,0,0,0,0
+39,"BRIEF-Docusign Shares Open In Debut On The Nasdaq, About 31 Pct Above IPO Price",Reuters News,4/27/2018,46,Docusign,0,0,1,0,0
+40,BRIEF-Dropbox Announces IPO Of 36 mln Shares Of Common Stock At $21 Per Shareâ,Reuters News,3/22/2018,64,Dropbox,0,0,0,0,0
+41,BRIEF-Dropbox Inc Files For IPO Of Up To $500 Mln,Reuters News,2/23/2018,181,Dropbox,0,0,0,0,0
+42,"BRIEF-Dropbox Prices IPO At $21 Per Share- CNBC, Citing Sourceââ",Reuters News,3/22/2018,39,Dropbox,0,0,0,0,0
+43,BRIEF-Dropbox Prices IPO At $21/Share - Source Familiar With The Matter,Reuters News,3/22/2018,37,Dropbox,2,0,0,0,0
+44,BRIEF-Dropbox Sees IPO Of Up To 36 Mln Shares Of Class A Common Stock,Reuters News,3/12/2018,173,Dropbox,0,0,0,0,0
+45,BRIEF-Dropbox Shares Debut 38.1 Pct Above IPO Price,Reuters News,3/23/2018,34,Dropbox,0,0,0,0,0
+46,"Broadcom, Hot Tech IPO DocuSign To Report: Investing Action Plan",Investor's Business Daily,6/6/2018,452,Docusign,0,0,0,2,0
+47,"Broadcom, Hot Tech IPO DocuSign To Report: Investing Action Plan",Investor's Business Daily,6/6/2018,445,Docusign,0,0,0,2,0
+48,"Closely Watched Dropbox IPO Sets Terms, Looks To Raise $612 Million",Investor's Business Daily,3/12/2018,474,Dropbox,2,0,0,0,0
+49,"Closely Watched Dropbox IPO Sets Terms, Looks To Raise $612 Million",Investor's Business Daily,3/12/2018,474,Dropbox,2,0,0,0,0
+50,Cloud storage company Dropbox files for IPO,Financial Times (FT.Com),2/23/2018,238,Dropbox,0,0,0,0,0
+51,CORRECTED-Dropbox IPO oversubscribed - sources,Reuters News,3/19/2018,454,Dropbox,0,0,0,0,0
+52,DocuSign 21.7M-Share IPO Prices at $29 Each,Dow Jones Newswires Chinese (English),4/26/2018,39,Docusign,0,0,0,0,0
+53,"DocuSign aiming for IPO by early 2018, CEO says",Dow Jones Newswires Chinese (English),7/19/2017,730,Docusign,0,0,0,0,0
+54,"DocuSign aiming for IPO by early 2018, CEO says; DocuSign is valued at $3 billion and has partnerships with major tech companies",MarketWatch,7/19/2017,678,Docusign,2,0,0,2,0
+55,DocuSign chief on the IPO trail,The Australian,7/25/2017,892,Docusign,0,0,0,0,0
+56,DocuSign expected to announce final IPO pricing; Advance Media Information; Future News Item; DocuSign Inc,Kantar Media - Forward Planner,4/27/2018,100,Docusign,0,0,0,0,0
+57,DocuSign expected to announce final IPO pricing; AP Planner; Future News Item; DocuSign Inc,AP Planner,4/27/2018,87,Docusign,0,0,0,0,0
+58,DocuSign Files for IPO,Dow Jones Institutional News,3/28/2018,411,Docusign,0,0,0,0,0
+59,DocuSign Files for IPO,Dow Jones Institutional News,3/28/2018,1029,Docusign,0,0,0,0,0
+60,Docusign files for IPO,German Collection,3/30/2018,117,Docusign,0,0,0,0,0
+61,Docusign Files For IPO -- MarketWatch,Dow Jones Institutional News,3/28/2018,148,Docusign,0,0,0,0,0
+62,DocuSign files for IPO - report,Telecompaper World,3/20/2018,74,Docusign,0,0,0,0,0
+63,DocuSign Files for IPO; Electronic-signature provider has yet to turn a profit,The Wall Street Journal Online,3/28/2018,414,Docusign,0,2,1,0,0
+64,Docusign Inc Says Now Sees IPO Price Of Common Stock Will Be Between $26.00 And $28.00 Per Share,Reuters Significant Developments,4/25/2018,69,Docusign,0,0,0,0,0
+65,Docusign Inc Sees IPO Of 21.7 Million Shares Priced Between $24 And $26 Per Share - SEC Filing,Reuters Significant Developments,4/17/2018,66,Docusign,0,0,0,0,0
+66,DocuSign Inc. (DOCU) Paused (quotes only) due to IPO released for quotation,Dow Jones Institutional News,4/27/2018,23,Docusign,0,0,0,0,0
+67,DocuSign IPO Prices Above Range As Stock Jumps By Double-Digits,Investor's Business Daily,4/27/2018,320,Docusign,0,0,1,0,0
+68,DocuSign IPO Prices Above Range As Stock Jumps By Double-Digits,Investor's Business Daily,4/27/2018,307,Docusign,0,0,1,0,0
+69,DocuSign IPO Prices Above Range at $29,Dow Jones Institutional News,4/26/2018,419,Docusign,0,0,1,0,0
+70,DocuSign IPO Prices Above Range at $29,Dow Jones Newswires Chinese (English),4/26/2018,37,Docusign,0,0,1,0,0
+71,"DocuSign IPO: 5 things to know about the e-signature company; Losses are shrinking, but future Trump trade actions could affect the business",MarketWatch,4/29/2018,1303,Docusign,6,0,0,0,1
+72,DocuSign Looks to Automate Contracts After IPO -- Market Talk,Dow Jones Institutional News,4/27/2018,1422,Docusign,2,0,0,0,0
+73,DocuSign Looks to Automate Contracts After IPO -- Market Talk,Dow Jones Institutional News,4/27/2018,145,Docusign,2,0,0,0,0
+74,DocuSign officially files for IPO,Telecompaper World,3/29/2018,304,Docusign,0,0,0,0,0
+75,"DocuSign prices IPO at $29, higher than expected, to raise more than $600 million",Dow Jones Newswires Chinese (English),4/26/2018,200,Docusign,0,0,0,0,0
+76,"DocuSign Prices IPO At $29, Higher Than Expected, To Raise More Than $600 Million -- MarketWatch",Dow Jones Institutional News,4/26/2018,207,Docusign,0,0,0,0,0
+77,Docusign Prices IPO Of 21.7 mln Common Shares Priced At $29 per Share,Reuters Significant Developments,4/27/2018,59,Docusign,0,0,0,0,0
+78,DocuSign raises IPO price range ahead of expected Thursday pricing,Dow Jones Newswires Chinese (English),4/25/2018,142,Docusign,0,0,0,0,0
+79,DocuSign Raises IPO Price Range Ahead Of Expected Thursday Pricing -- MarketWatch,Dow Jones Institutional News,4/25/2018,149,Docusign,0,0,0,0,0
+80,DocuSign Raises USD723.69 Million in Initial Public Offering (IPO),Financial Deals Tracker,5/4/2018,372,Docusign,0,0,0,0,0
+81,Docusign sets IPO terms,PE Hub Network,4/18/2018,69,Docusign,0,0,0,0,0
+82,"DocuSign Sets IPO Terms, With Expectations To Raise Up To $417.5 Million -- MarketWatch",Dow Jones Institutional News,4/17/2018,230,Docusign,2,0,0,0,0
+83,DocuSign sets targets to raise up to $649M in upcoming IPO,Silicon Valley/San Jose Business Journal Online,4/17/2018,351,Docusign,0,0,0,0,0
+84,"Docusign Shares Open In Debut On The Nasdaq, About 31 Pct Above IPO Price",Reuters Significant Developments,4/27/2018,43,Docusign,0,0,1,0,0
+85,"DocuSign Shows Strong Demand, Closes Up 30%; Electronic-signature technology company IPO priced at $29 a share and closed above $39",The Wall Street Journal Online,4/27/2018,614,Docusign,2,0,3,0,0
+86,DocuSign stock jumps after IPO,Dow Jones Newswires Chinese (English),4/27/2018,118,Docusign,0,0,0,0,0
+87,DocuSign Stock Jumps After IPO -- MarketWatch,Dow Jones Institutional News,4/27/2018,125,Docusign,0,0,0,0,0
+88,DocuSign stock soars after IPO as cloud fever continues; E-signature company worth more than $6 billion after 37% in first day of trading,MarketWatch,4/27/2018,559,Docusign,0,0,0,0,1
+89,Dropbox aims at valuation of up to USD 8bn in launched IPO - insiders,German Collection,2/27/2018,141,Dropbox,0,0,0,0,0
+90,Dropbox aims to raise up to $648 million in IPO,The Boston Globe,3/12/2018,364,Dropbox,0,0,0,0,0
+91,Dropbox aims to raise up to $648 million in IPO,latimes.com,3/12/2018,337,Dropbox,0,0,0,0,0
+92,Dropbox aims to raise up to $648m in IPO,The Boston Globe,3/13/2018,341,Dropbox,0,0,0,0,0
+93,"Dropbox Aims to Raise Up to $748M in IPO, Salesforce Pact; BANKING/FINANCE",Palm Beach Daily Business Review,3/13/2018,348,Dropbox,0,0,0,0,0
+94,"Dropbox Aims to Raise Up to $748M in IPO, Salesforce Pact; BANKING/FINANCE",Miami Daily Business Review,3/13/2018,348,Dropbox,0,0,0,0,0
+95,"Dropbox Aims to Raise Up to $748M in IPO, Salesforce Pact; BANKING/FINANCE",Broward Daily Business Review,3/13/2018,348,Dropbox,0,0,0,0,0
+96,Dropbox Applies for IPO Listing in U.S.,AAStocks Financial News,2/24/2018,46,Dropbox,0,0,0,0,0
+97,"Dropbox avoids Snapâs IPO mistakes, but only slightly; Opinion: Company previously valued at $10 billion embraces somewhat more palatable...",MarketWatch,2/25/2018,829,Dropbox,0,2,0,6,2
+98,Dropbox beats boosted targets in IPO set to raise about $856M,San Francisco Business Times Online,3/22/2018,262,Dropbox,0,0,0,1,0
+99,"Dropbox boosts IPO targets, now hopes to raise up to $720M",Silicon Valley/San Jose Business Journal Online,3/21/2018,485,Dropbox,0,0,0,3,0
+100,"Dropbox boosts IPO targets, now hopes to raise up to $720M",San Francisco Business Times Online,3/21/2018,480,Dropbox,0,0,0,3,0
+101,Dropbox chief to join elite ranks of idea-to-IPO founders,San Francisco Chronicle: Web Edition Articles,3/12/2018,1475,Dropbox,0,0,0,1,0
+102,Dropbox chief to join elite ranks of idea-to-IPO founders,Waterloo Region Record,3/12/2018,1148,Dropbox,0,0,0,1,0
+103,"Dropbox closes in on IPO, according to report",Austin Business Journal Online,1/12/2018,345,Dropbox,0,0,1,0,0
+104,Dropbox confidentially files for IPO,ETMAG.com,1/15/2018,264,Dropbox,0,0,0,0,0
+105,Dropbox confidentially files for long-awaited IPO; Cloud storage company valued at $10 billion in 2014,MarketWatch,1/11/2018,303,Dropbox,0,0,0,2,0
+106,"Dropbox earnings beat expectations after IPO, but stock still dips; Dropbox shares decline more than 4% at one point in after-hours trading",MarketWatch,5/14/2018,649,Dropbox,6,1,0,0,0
+107,"Dropbox earnings: After big IPO, big expectations for first report; Dropbox may have to beat expectations to avoid a stock decline",MarketWatch,5/8/2018,888,Dropbox,8,2,0,0,0
+108,"Dropbox expected to announce final IPO pricing; Advance Media Information; Future News Item; Dropbox, Inc",Kantar Media - Forward Planner,3/22/2018,95,Dropbox,0,0,0,0,0
+109,"Dropbox expected to announce final IPO pricing; AP Planner; Future News Item; Dropbox, Inc",AP Planner,3/23/2018,82,Dropbox,0,0,0,0,0
+110,Dropbox Expects To Price IPO In $16-$18/shr Range,CE NoticiasFinancieras,3/12/2018,327,Dropbox,0,0,0,0,0
+111,Dropbox Expects To Price IPO In $16-$18/shr Range,RTT News,3/12/2018,331,Dropbox,0,0,0,0,0
+112,"Dropbox explores going public this year, in what would be Y Combinator's first IPO",Silicon Valley/San Jose Business Journal Online,7/3/2017,361,Dropbox,2,0,0,0,0
+113,Dropbox files confidential IPO - report,Telecompaper World,1/12/2018,195,Dropbox,0,0,0,0,0
+114,Dropbox files confidential IPO document: report,Dow Jones Newswires Chinese (English),1/11/2018,149,Dropbox,0,0,0,0,0
+115,Dropbox Files Confidential IPO Document: Report -- MarketWatch,Dow Jones Institutional News,1/11/2018,184,Dropbox,0,0,0,0,0
+116,"Dropbox files confidentially for IPO, Bloomberg says",Theflyonthewall.com,1/11/2018,69,Dropbox,0,0,0,0,0
+117,Dropbox files confidentially for U.S. IPO: source,Reuters News,1/11/2018,150,Dropbox,0,0,0,0,0
+118,"Dropbox files confidentially for US IPO, source says",Computerworld Australia,1/12/2018,135,Dropbox,0,0,0,0,0
+119,Dropbox files for $500 million IPO in greatly anticipated offering,U-Wire,3/19/2018,821,Dropbox,2,0,0,0,0
+120,Dropbox files for $500mn IPO,Business Review USA,2/26/2018,208,Dropbox,0,0,0,0,0
+121,Dropbox files for a $500 million IPO,CNN Wire,2/23/2018,194,Dropbox,0,0,0,0,0
+122,Dropbox files for IPO,Financial Times (FT.Com),2/25/2018,536,Dropbox,0,0,0,0,0
+123,Dropbox files for IPO,French Collection,2/26/2018,95,Dropbox,0,0,0,0,0
+124,Dropbox Files For IPO,CE NoticiasFinancieras,2/25/2018,108,Dropbox,0,0,0,0,0
+125,Dropbox Files For IPO,RTT News,2/25/2018,112,Dropbox,0,0,0,0,0
+126,Dropbox files for IPO as market competition increases,New Zealand Reseller News,2/24/2018,219,Dropbox,0,0,0,0,0
+127,Dropbox files for IPO of $500 million; The San Francisco file-sharing firm is privately valued at $10 billion.,Los Angeles Times,2/24/2018,340,Dropbox,2,0,0,2,0
+128,Dropbox files for IPO of up to $500 million,Reuters News,2/23/2018,325,Dropbox,0,0,0,0,0
+129,Dropbox files for IPO of up to $500 million,Reuters News,2/23/2018,93,Dropbox,0,0,0,0,0
+130,Dropbox files for IPO of up to US$500M; 11 million paying users across 180 countries,National Post,2/24/2018,314,Dropbox,0,0,0,0,0
+131,Dropbox Files for IPO Three Years After $10 Billion Private Valuation,Dow Jones Newswires Chinese (English),1/11/2018,596,Dropbox,0,0,0,0,0
+132,Dropbox Files for IPO Three Years After $10 Billion Private Valuation,Dow Jones Institutional News,1/11/2018,595,Dropbox,0,0,0,0,0
+133,Dropbox Files for IPO Three Years After $10 Billion Private Valuation,Dow Jones Institutional News,1/11/2018,601,Dropbox,0,0,0,0,0
+134,Dropbox Files for IPO Three Years After $10 Billion Private Valuation; Web-storage company stands to be one of the largest tech IPOs in 2018,The Wall Street Journal Online,1/11/2018,639,Dropbox,0,0,2,0,0
+135,Dropbox files for IPO; Supreme Court to hold hearing on Microsoft overseas data,SNL Financial Extra,2/26/2018,928,Dropbox,0,0,0,0,0
+136,Dropbox files for up to $500M IPO,SNL Kagan Media & Communications Report,2/26/2018,236,Dropbox,0,0,0,0,0
+137,Dropbox files to go public and it could be the first Y Combinator company to IPO,San Francisco Business Times Online,2/23/2018,427,Dropbox,2,0,0,0,0
+138,"Dropbox files to go public, could be the first Y Combinator company to IPO",Silicon Valley/San Jose Business Journal Online,2/23/2018,453,Dropbox,2,0,0,0,0
+139,Dropbox finishes up 36% on IPO day,Spanish Collection,3/24/2018,91,Dropbox,0,0,0,0,0
+140,Dropbox gave $190 million in stock to 3 executives before IPO,Jackson Citizen-Patriot,3/4/2018,157,Dropbox,0,0,0,0,0
+141,Dropbox gave $190 million in stock to 3 executives before IPO,The Grand Rapids Press,3/4/2018,157,Dropbox,0,0,0,0,0
+142,Dropbox gave $190 million in stock to 3 executives before IPO,Muskegon Chronicle,3/4/2018,157,Dropbox,0,0,0,0,0
+143,Dropbox gave $190 million in stock to 3 executives before IPO,The Flint Journal,3/4/2018,157,Dropbox,0,0,0,0,0
+144,Dropbox gave $190 million in stock to 3 executives before IPO,Jackson Citizen-Patriot,3/4/2018,157,Dropbox,0,0,0,0,0
+145,Dropbox gave $190 million in stock to 3 executives before IPO,The Grand Rapids Press,3/4/2018,157,Dropbox,0,0,0,0,0
+146,Dropbox gave $190 million in stock to 3 executives before IPO,Bay City Times,3/4/2018,157,Dropbox,0,0,0,0,0
+147,"Dropbox has filed for an IPO, and of course T. Rowe Price has a stake",Baltimore Business Journal,2/27/2018,359,Dropbox,0,2,0,0,0
+148,Dropbox has to lower its IPO sights,thetimes.co.uk,3/12/2018,263,Dropbox,0,0,0,0,0
+149,Dropbox has to lower its IPO sights,The Times,3/13/2018,263,Dropbox,0,0,0,0,0
+150,Dropbox heads for trading debut after upsized IPO pricing: Reuters,PE Hub Network,3/23/2018,458,Dropbox,0,0,0,0,0
+151,Dropbox hopes to capture about $ 750 million in its IPO,CE NoticiasFinancieras,3/12/2018,173,Dropbox,0,0,0,2,0
+152,Dropbox hopes to get $648M from IPO,The Toronto Star,3/13/2018,247,Dropbox,0,0,0,2,0
+153,Dropbox in search of IPO underwriters - report,SeeNews Deals,7/3/2017,212,Dropbox,0,0,0,0,0
+154,DropBox Inc. (DBX) Paused (quotes only) due to IPO released for quotation,Dow Jones Institutional News,3/23/2018,23,Dropbox,0,0,0,0,0
+155,DropBox Inc. Files for IPO,Dow Jones Newswires Chinese (English),2/23/2018,34,Dropbox,0,0,0,0,0
+156,Dropbox increases $ 2 the price range for your IPO,CE NoticiasFinancieras,3/21/2018,280,Dropbox,0,0,0,0,0
+157,Dropbox increases IPO price range by USD 2,Telecompaper World,3/21/2018,96,Dropbox,0,0,0,0,0
+158,Dropbox IPO aiming to raise $748 mn,Agence France Presse,3/12/2018,185,Dropbox,0,0,0,0,0
+159,Dropbox IPO could value company at more than $7 billion [Derived Headline],The Orange County Register,3/13/2018,1246,Dropbox,2,0,0,2,0
+160,Dropbox IPO Defies Marketâs Gravity With 36% Jump,Dow Jones Institutional News,3/23/2018,929,Dropbox,0,0,0,0,2
+161,Dropbox IPO Defies Market's Gravity With 36% Jump,Dow Jones Newswires Chinese (English),3/26/2018,905,Dropbox,0,0,0,0,0
+162,Dropbox IPO Defies Market's Gravity With 36% Jump; The data-storage and collaboration company started trading on Nasdaq under the symbol 'DBX',The Wall Street Journal Online,3/23/2018,946,Dropbox,0,0,0,0,0
+163,Dropbox IPO Filing Is Good News,Barron's,2/26/2018,484,Dropbox,0,0,1,1,0
+164,Dropbox IPO filing shows more than $1B in annual revenue,CNET News.com,2/24/2018,393,Dropbox,2,0,0,0,0
+165,"Dropbox IPO Hits A High Mark, Pops 40% On First Day Of Trading",Investor's Business Daily,3/23/2018,626,Dropbox,2,0,0,0,0
+166,"Dropbox IPO Hits A High Mark, Pops 40% On First Day Of Trading",Investor's Business Daily,3/23/2018,625,Dropbox,2,0,0,0,0
+167,Dropbox IPO is yet another corporate governance low point,Financial Times (FT.Com),3/18/2018,747,Dropbox,3,0,0,0,2
+168,Dropbox IPO launches: Cloud storage lures investors but its deal isn't best for consumers,USA Today Online,3/23/2018,826,Dropbox,0,0,1,2,1
+169,Dropbox IPO may give Bono a beautiful day,The Sunday Times,7/9/2017,177,Dropbox,0,0,0,2,0
+170,"Dropbox IPO oversubscribed, say sources: Reuters",PE Hub Network,3/19/2018,424,Dropbox,0,0,0,0,0
+171,Dropbox IPO oversubscribed: sources,Reuters News,3/19/2018,482,Dropbox,0,0,0,0,0
+172,Dropbox IPO points to value around $7.5bn,Financial Times (FT.Com),3/12/2018,178,Dropbox,0,0,0,0,0
+173,Dropbox IPO price range puts valuation nearly a third below peak,Reuters News,3/12/2018,796,Dropbox,0,0,0,0,0
+174,Dropbox IPO price range puts valuation nearly a third below peak,EJ Insight,3/13/2018,399,Dropbox,0,0,0,0,0
+175,Dropbox IPO Priced Above Range,Dow Jones Institutional News,3/22/2018,657,Dropbox,0,0,0,0,0
+176,Dropbox IPO priced at $21 per share - CNBC,Reuters News,3/22/2018,152,Dropbox,0,0,0,0,0
+177,Dropbox IPO priced at nearly one-third below its peak valuation,Computerworld Australia,3/13/2018,751,Dropbox,0,0,0,0,0
+178,Dropbox IPO priced higher than expected on strong demand,Reuters News,3/22/2018,433,Dropbox,0,0,2,0,0
+179,Dropbox IPO priced higher than expected on strong demand,EJ Insight,3/23/2018,386,Dropbox,0,0,2,0,0
+180,"Dropbox IPO Prices at $21 a Share, Above Expected Range -- Source",Dow Jones Newswires Chinese (English),3/22/2018,35,Dropbox,0,0,1,0,0
+181,"Dropbox IPO Prices Shares At 21 Apiece, Above Expected Range",Investor's Business Daily,3/22/2018,451,Dropbox,0,0,1,0,0
+182,Dropbox IPO prices: Cloud storage lures investors but its deal isn't best for consumers,USA Today Online,3/22/2018,783,Dropbox,0,0,1,2,1
+183,Dropbox IPO raises $756m in NYSE,Mubasher,3/24/2018,87,Dropbox,0,0,0,0,0
+184,"Dropbox IPO succeeds amid market volatility, with more tests to come; Six initial public offerings expected to raise $3 billion next w...",MarketWatch,3/24/2018,639,Dropbox,0,0,0,1,1
+185,Dropbox IPO Target Valuation Set at $7 Billion to $8 Billion,Dow Jones Institutional News,3/12/2018,732,Dropbox,0,0,0,0,0
+186,Dropbox IPO Tops Expectations,The Wall Street Journal,3/23/2018,642,Dropbox,2,0,0,0,0
+187,Dropbox IPO Tops Expectations -- WSJ,Dow Jones Institutional News,3/23/2018,692,Dropbox,2,0,0,0,0
+188,Dropbox IPO valuation set between $7bn and $8bn,The Guardian,3/13/2018,477,Dropbox,0,0,0,0,0
+189,"Dropbox IPO: 5 things to know about the cloud-storage company; Names aside, Dropbox doesnât want you to think it has much in common with Box",MarketWatch,3/23/2018,1252,Dropbox,6,0,0,2,0
+190,"Dropbox IPO: Consider Lessons From Facebook, Alibaba, Snap And Square Before Buying",Investor's Business Daily,3/23/2018,991,Dropbox,1,0,0,0,0
+191,"Dropbox IPO: Consider Lessons From Facebook, Alibaba, Snap And Square Before Buying",Investor's Business Daily,3/23/2018,986,Dropbox,1,0,0,0,0
+192,"Dropbox IPO: Consider Lessons From Facebook, Alibaba, Snap And Square Before Buying",Investor's Business Daily,3/23/2018,985,Dropbox,1,0,0,0,0
+193,"Dropbox IPO: Consider Lessons From Facebook, Alibaba, Snap And Square Before Buying",Investor's Business Daily,3/23/2018,973,Dropbox,1,0,0,0,0
+194,Dropbox IPO: Too Much of a Good Thing?,Barron's Online,3/26/2018,310,Dropbox,2,0,1,1,0
+195,Dropbox IPO: Too Much of a Good Thing? -- Barrons.com,Dow Jones Institutional News,3/26/2018,324,Dropbox,2,0,1,1,0
+196,Dropbox IPO: What does it mean to be a 'secret' IPO?,USA Today Online,1/11/2018,418,Dropbox,1,1,0,0,0
+197,Dropbox is said to file confidentially for IPO,San Francisco Chronicle: Web Edition Articles,1/11/2018,498,Dropbox,0,0,0,0,0
+198,"Dropbox Just Confidentially Filed To Go Public, Setting Up A Bellwether IPO",Forbes.com,1/11/2018,525,Dropbox,0,0,0,2,0
+199,Dropbox lifts price expectations for IPO amid strong demand,The Australian,3/24/2018,535,Dropbox,2,0,2,0,0
+200,Dropbox looks to push user subscriptions before possible IPO,Indian Express,10/18/2017,268,Dropbox,4,0,0,0,0
+201,Dropbox makes confidential US IPO filing,V3,1/15/2018,652,Dropbox,0,0,0,0,0
+202,Dropbox May Get a Little Help From Its Friends; Rich multiples among cloud companies make Dropbox IPO look a little less frothy by comparison,The Wall Street Journal Online,3/22/2018,489,Dropbox,2,4,3,2,0
+203,"Dropbox Opens At $29, Above IPO Price of $21",Dow Jones Newswires Chinese (English),3/23/2018,33,Dropbox,0,0,1,0,0
+204,"Dropbox opens for sharing at 29 usd, 38% above IPO price",24 Ore Radiocor-Newswire International Edition,3/23/2018,66,Dropbox,0,0,1,0,0
+205,Dropbox opens up for $500m IPO,CRN,2/26/2018,466,Dropbox,0,0,0,0,0
+206,Dropbox pares valuation to $7 billion as it heads for IPO,Los Angeles Daily News,3/12/2018,595,Dropbox,0,0,0,0,0
+207,"Dropbox Pitches Investors on Scale, Growth and Collaboration; Executives make pitch during IPO roadshow; some investors see company's...",The Wall Street Journal Online,3/14/2018,549,Dropbox,0,0,0,0,0
+208,Dropbox Pitches IPO to Investors,The Wall Street Journal,3/15/2018,525,Dropbox,0,0,0,0,0
+209,Dropbox Pitches IPO to Investors -- WSJ,Dow Jones Institutional News,3/15/2018,575,Dropbox,0,0,0,0,0
+210,Dropbox planning IPO - report,Telecompaper World,7/3/2017,118,Dropbox,0,0,0,0,0
+211,"Dropbox planning to go public, sources say Valued at $10B, company files for IPO confidentially",Chicago Tribune,1/12/2018,440,Dropbox,0,0,0,2,0
+212,"Dropbox planning to launch IPO before the end of the year, according to reports",Computing,7/4/2017,392,Dropbox,0,0,1,0,0
+213,Dropbox plans for IPO raise ire over share structure,Financial Times (FT.Com),2/23/2018,613,Dropbox,0,0,0,0,2
+214,Dropbox pops 48% in biggest tech IPO since Snap,Spanish Collection,3/24/2018,108,Dropbox,0,0,0,0,0
+215,Dropbox prepares for IPO to fuel shift towards business,Financial Times (FT.Com),3/14/2018,1067,Dropbox,0,0,0,0,0
+216,"Dropbox Preps For Friday IPO Alongside Education, Biotech Firms",Benzinga.com,3/19/2018,185,Dropbox,0,0,0,0,0
+217,Dropbox presents documents for an IPO for up to 500 million dollars,CE NoticiasFinancieras,2/24/2018,233,Dropbox,0,0,0,0,0
+218,"Dropbox Prices IPO Above Range, Marking Strong Demand",Dow Jones Newswires Chinese (English),3/22/2018,665,Dropbox,0,0,3,0,0
+219,"Dropbox Prices IPO Above Range, Marking Strong Demand",Dow Jones Institutional News,3/22/2018,670,Dropbox,0,0,3,0,0
+220,"Dropbox Prices IPO Above Range, Marking Strong Demand; Data-storage and collaboration company's shares to start trading Friday",The Wall Street Journal Online,3/22/2018,662,Dropbox,0,0,3,0,0
+221,Dropbox prices IPO above range; DOJ asks judge to block AT&T/Time Warner deal,SNL Financial Extra,3/23/2018,1152,Dropbox,0,1,1,1,0
+222,"Dropbox Prices IPO At $21 A Share, Above Expected Range :WSJ",CE NoticiasFinancieras,3/22/2018,200,Dropbox,0,0,1,0,0
+223,"Dropbox Prices IPO At $21 A Share, Above Expected Range :WSJ",RTT News,3/22/2018,204,Dropbox,0,0,1,0,0
+224,"Dropbox Prices IPO At $21 Per Share- CNBC, Citing Source??",Reuters Significant Developments,3/22/2018,25,Dropbox,0,0,0,0,0
+225,"Dropbox prices IPO at $21 per share, valuing it at $9.2bn",The Telegraph Online,3/22/2018,317,Dropbox,0,0,0,2,0
+226,"Dropbox Prices IPO At $21, Higher Than Expected: Report -- MarketWatch",Dow Jones Institutional News,3/22/2018,130,Dropbox,0,0,0,0,0
+227,Dropbox Prices IPO At $21/Share - Source Familiar With The Matter,Reuters Significant Developments,3/22/2018,29,Dropbox,2,0,0,0,0
+228,Dropbox quietly files for a $10bn 2018 IPO,Computing,1/15/2018,737,Dropbox,0,0,0,0,0
+229,Dropbox quietly files for IPO: source,ARN (Australian Reseller News),1/12/2018,136,Dropbox,0,0,0,0,0
+230,Dropbox Raises Expected Valuation Range Ahead of IPO,Dow Jones Institutional News,3/21/2018,610,Dropbox,0,0,0,0,0
+231,Dropbox Raises Expected Valuation Range Ahead of IPO,Dow Jones Newswires Chinese (English),3/21/2018,611,Dropbox,0,0,0,0,0
+232,Dropbox Raises Expected Valuation Range Ahead of IPO,Dow Jones Institutional News,3/21/2018,616,Dropbox,0,0,0,0,0
+233,Dropbox Raises Expected Valuation Range Ahead of IPO; The file-storage and collaboration company expects its shares to price between $18...,The Wall Street Journal Online,3/21/2018,620,Dropbox,0,0,0,0,0
+234,Dropbox raises IPO price range,Reuters News,3/21/2018,74,Dropbox,0,0,0,0,0
+235,Dropbox Raises IPO Price Range -- MarketWatch,Dow Jones Institutional News,3/21/2018,130,Dropbox,0,0,0,0,0
+236,Dropbox raises IPO price range by $2 on strong demand,Reuters News,3/21/2018,479,Dropbox,0,0,2,0,0
+237,Dropbox raises IPO price range by $2 on strong demand: Reuters,PE Hub Network,3/21/2018,417,Dropbox,0,0,2,0,0
+238,Dropbox raises IPO price rangs,German Collection,3/22/2018,125,Dropbox,0,0,0,0,0
+239,Dropbox raises its IPO range,CNN Wire,3/21/2018,280,Dropbox,0,0,0,0,0
+240,Dropbox Raises Target For Price Before IPO,The Wall Street Journal,3/22/2018,330,Dropbox,0,0,0,0,0
+241,Dropbox Raises Target For Price Before IPO -- WSJ,Dow Jones Institutional News,3/22/2018,649,Dropbox,0,0,0,0,0
+242,Dropbox reportedly applies for IPO in New York,German Collection,1/15/2018,135,Dropbox,0,0,0,0,0
+243,Dropbox Reportedly Files Confidentially For IPO,CE NoticiasFinancieras,1/12/2018,87,Dropbox,0,0,0,0,0
+244,Dropbox Reportedly Files Confidentially For IPO,RTT News,1/12/2018,91,Dropbox,0,0,0,0,0
+245,Dropbox said to file for IPO confidentially,Calgary Herald,1/12/2018,751,Dropbox,0,0,0,0,0
+246,Dropbox said to file for IPO confidentially,Vancouver Sun,1/12/2018,753,Dropbox,0,0,0,0,0
+247,"Dropbox sales, profit top estimates in first report after IPO",San Francisco Chronicle: Web Edition,5/10/2018,416,Dropbox,0,0,3,0,0
+248,Dropbox seeking to raise $500M in IPO,The Times Reporter,2/25/2018,147,Dropbox,0,0,0,0,0
+249,Dropbox Seeks More Paying Customers Before Expected Ipo,National Post,10/18/2017,176,Dropbox,0,0,0,0,0
+250,Dropbox seeks to hire IPO underwriters: Reuters,PE Hub Network,7/3/2017,453,Dropbox,0,0,0,0,0
+251,Dropbox sees IPO price between $16 and $18 per share,Reuters News,3/12/2018,248,Dropbox,0,0,0,0,0
+252,Dropbox sees IPO price between $16 and $18 per share: Reuters,PE Hub Network,3/12/2018,300,Dropbox,0,0,0,0,0
+253,Dropbox sells 5.4 mln more shares at IPO price,Telecompaper World,4/4/2018,130,Dropbox,0,0,0,0,0
+254,Dropbox set for valuation near $7.5bn ahead of IPO,Financial Times,3/13/2018,64,Dropbox,0,0,0,0,0
+255,Dropbox set for valuation near $7.5bn ahead of IPO,Financial Times,3/13/2018,64,Dropbox,0,0,0,0,0
+256,Dropbox sets IPO price at $21 a share,Financial Times (FT.Com),3/22/2018,273,Dropbox,0,0,0,0,0
+257,Dropbox sets IPO price at USD 21 per share,Telecompaper World,3/23/2018,105,Dropbox,0,0,0,0,0
+258,"Dropbox sets IPO price range, to sell stake to Salesforce",National Iraqi News Agency,3/13/2018,182,Dropbox,0,2,0,0,0
+259,"Dropbox sets IPO price range, to sell stake to Salesforce",Telecompaper World,3/12/2018,182,Dropbox,0,2,0,0,0
+260,"Dropbox sets IPO range, hopes to raise USD 648m",Spanish Collection,3/13/2018,111,Dropbox,0,0,0,2,0
+261,Dropbox Sets IPO Target Valuation at $7 Billion to $8 Billion,Dow Jones Newswires Chinese (English),3/12/2018,449,Dropbox,0,0,0,0,0
+262,Dropbox Sets IPO Target Valuation at $7 Billion to $8 Billion,Dow Jones Institutional News,3/12/2018,454,Dropbox,0,0,0,0,0
+263,Dropbox Sets IPO Target Valuation at $7 Billion to $8 Billion -- Update,Dow Jones Institutional News,3/12/2018,749,Dropbox,0,0,0,0,0
+264,Dropbox Sets IPO Target Valuation at $7 Billion to $8 Billion; Web-storage company said it expects its shares to price between $16 and $18,The Wall Street Journal Online,3/12/2018,748,Dropbox,0,0,0,0,0
+265,Dropbox Sets IPO target valuation at $7 billion to $8 billion; Web-storage company said it expects its shares to price between $16 and $18,MarketWatch,3/12/2018,272,Dropbox,0,0,0,0,0
+266,"Dropbox Sets IPO Terms at 36M Class A Common Shrs, $16-$18/Shr",Dow Jones Newswires Chinese (English),3/12/2018,43,Dropbox,0,0,0,0,0
+267,Dropbox Shares Debut 38.1 Pct Above IPO Price,Reuters Significant Developments,3/23/2018,26,Dropbox,0,0,0,0,0
+268,Dropbox shares jump over 50% on first day of IPO,German Collection,3/26/2018,110,Dropbox,0,0,0,0,0
+269,"Dropbox shares leap in IPO, and Silicon Valley smiles",San Francisco Chronicle: Web Edition Articles,3/23/2018,727,Dropbox,0,0,0,1,0
+270,Dropbox shares pop 40% in IPO,Optical Networks Daily,3/23/2018,78,Dropbox,0,0,0,0,0
+271,Dropbox signals high demand in tech stock IPO,Deutsche Welle,3/23/2018,269,Dropbox,4,0,0,0,0
+272,Dropbox sold extra shares in IPO for total take just shy of $1 billion,Dow Jones Newswires Chinese (English),4/3/2018,208,Dropbox,0,2,0,2,0
+273,Dropbox Sold Extra Shares In IPO For Total Take Just Shy Of $1 Billion -- MarketWatch,Dow Jones Institutional News,4/3/2018,254,Dropbox,0,2,0,2,0
+274,Dropbox to issue 36m shares in IPO,German Collection,3/13/2018,175,Dropbox,0,0,0,0,0
+275,Dropbox to start trading after strong IPO,CNET News.com,3/23/2018,130,Dropbox,0,0,2,0,0
+276,"Dropbox Tops Earnings Views In First-Post IPO Report, But Stock Falls",Investor's Business Daily,5/10/2018,296,Dropbox,2,0,0,0,0
+277,Dropbox tops estimates in first results since IPO,Reuters News,5/10/2018,361,Dropbox,0,0,0,0,0
+278,Dropbox tops paying subscriber estimates in first results since IPO,Reuters News,5/10/2018,159,Dropbox,0,0,0,0,0
+279,Dropbox unveils USD 500m IPO,Spanish Collection,2/24/2018,94,Dropbox,0,0,0,0,0
+280,Dropbox ups IPO range to 18-20 usd/shr,24 Ore Radiocor-Newswire International Edition,3/21/2018,85,Dropbox,0,0,0,0,0
+281,Dropbox valuation of $7.5bn for IPO well below peak,Financial Times (FT.Com),3/12/2018,662,Dropbox,0,0,0,1,0
+282,Dropbox valued at $10bn for IPO,The Australian,3/14/2018,349,Dropbox,0,0,0,2,0
+283,Dropbox valued at $7bn after filing for IPO,The Irish Times,3/13/2018,146,Dropbox,0,0,0,2,0
+284,Dropbox wants to raise $648 million in its IPO,CNN Wire,3/12/2018,294,Dropbox,0,0,0,2,0
+285,"Dropbox, Inc. (Nasdaq: DBX) to Ring the Nasdaq Stock Market Opening Bell in Celebration of Its IPO",GlobeNewswire,3/23/2018,510,Dropbox,0,0,0,0,0
+286,"Dropbox, valued privately at USD10b, files for IPO",Macau Daily Times,2/26/2018,306,Dropbox,0,0,0,2,0
+287,Dropboxâs multi-billion dollar IPO is âoversubscribedâ,New Zealand Reseller News,3/20/2018,426,Dropbox,0,0,0,0,0
+288,E-Signature Leader DocuSign Couldn't Find A Boss Two Years Ago. Now It's Worth $6 Billion After IPO,Forbes.com,4/27/2018,921,Docusign,2,0,0,1,0
+289,E-Signature Leader DocuSign Couldn't Find A Boss Two Years Ago. Now It's Worth $6 Billion After IPO.,Forbes.com,4/27/2018,927,Docusign,2,0,0,1,0
+290,Exclusive: Dropbox seeks to hire IPO underwriters - sources,Reuters News,7/1/2017,479,Dropbox,0,0,0,1,0
+291,EXCLUSIVE-Dropbox seeks to hire IPO underwriters -sources,Reuters News,6/30/2017,486,Dropbox,0,0,0,0,0
+292,EXCLUSIVE-Dropbox seeks to hire IPO underwriters -sources,Reuters News,6/30/2017,435,Dropbox,0,0,0,0,0
+293,"File-sharing company Dropbox discloses IPO details, Salesforce investment",SNL Kagan Media & Communications Report,3/13/2018,479,Dropbox,0,0,0,0,0
+294,First big tech IPO of 2018 close as Dropbox raises price range,ARN (Australian Reseller News),3/22/2018,459,Dropbox,2,0,0,0,0
+295,Here are 36 Bay Area Y Combinator startups pitching in Dropbox's IPO week,Silicon Valley/San Jose Business Journal Online,3/19/2018,1571,Dropbox,0,0,0,0,0
+296,Here are the big winners in the Dropbox IPO as it debuts on Wall Street,San Francisco Business Times Online,3/23/2018,956,Dropbox,2,0,2,0,0
+297,Here are the big winners in the Dropbox IPO as it soars on Wall Street,Silicon Valley/San Jose Business Journal Online,3/23/2018,942,Dropbox,2,0,2,0,0
+298,Hereâs a trick for getting access to hot IPO shares in Spotify and Dropbox; Publicly traded GSV Capital owns shares of pre-IPO companies,MarketWatch,3/7/2018,1691,Dropbox,0,2,0,2,0
+299,Here's how DocuSign IPO's big winners helped shape its success,Silicon Valley/San Jose Business Journal,4/27/2018,836,Docusign,2,0,3,2,0
+300,"Hot IPO Stocks: Canada Goose, Smart Global Shape Up As Dropbox, Baidu's iQiyi Grab Spotlight",Investor's Business Daily,3/26/2018,694,Dropbox,0,0,0,2,0
+301,"Hot IPO Stocks: Canada Goose, Smart Global Shape Up As Dropbox, Baidu's iQiyi Grab Spotlight",Investor's Business Daily,3/26/2018,698,Dropbox,0,0,0,2,0
+302,"How To Buy IPO Stocks: Lessons From Facebook, Alibaba, Dropbox, Snap",Investor's Business Daily,6/22/2018,1142,Dropbox,0,0,0,0,0
+303,"ICYMI: Costco Controversy, Dropbox IPO, Blockchain In Trucking",Benzinga.com,3/15/2018,192,Dropbox,0,0,0,0,0
+304,IPO could value Dropbox at more than $7B,The Daily Gazette,3/13/2018,133,Dropbox,2,0,0,2,0
+305,IPO looms for San Francisco-based Dropbox; Growing list of tech firms to make leap,National Post,1/12/2018,598,Dropbox,2,0,0,0,0
+306,IPO Values Dropbox at $7.4 Billion --- Web-storage firm files for largest technology launching since Snap's offering last year,The Wall Street Journal,3/13/2018,730,Dropbox,2,0,0,0,0
+307,IPO Values Dropbox at $7.4 Billion -- WSJ,Dow Jones Institutional News,3/13/2018,777,Dropbox,0,0,0,0,0
+308,IPO Values Dropbox Below 2014 VC Funding,CFO.com,3/12/2018,384,Dropbox,0,0,0,0,0
+309,IPO Watch: Dropbox A Blockbuster?,CE NoticiasFinancieras,3/12/2018,217,Dropbox,0,0,0,0,0
+310,IPO Watch: Dropbox A Blockbuster?,RTT News,3/12/2018,221,Dropbox,0,0,0,0,0
+311,IPO Watch: Dropbox Raises Valuation,CE NoticiasFinancieras,3/21/2018,285,Dropbox,0,0,0,0,0
+312,IPO Watch: Dropbox Raises Valuation,RTT News,3/21/2018,289,Dropbox,0,0,0,0,0
+313,"JPMorgan, Goldman to lead Dropbox in U.S. IPO - Bloomberg",Reuters News,1/11/2018,125,Dropbox,0,0,0,0,0
+314,March for Our Lives gets a Lyft; Dropbox has IPO; Starbucks gets colorful,San Francisco Chronicle: Web Edition Articles,3/22/2018,285,Dropbox,0,0,2,0,0
+315,MEDIA-DocuSign has filed confidentially for IPO - TechCrunch,Reuters News,3/20/2018,34,Docusign,0,0,0,0,0
+316,Morning Brief: Valiant Hopes to Cash in on a Dropbox IPO,Institutional Investorâs Alpha,1/16/2018,432,Dropbox,0,0,0,2,0
+317,"On Your Mark, Unicorns. Dropbox IPO Bodes Well",Barron's Online,2/24/2018,488,Dropbox,0,0,0,0,0
+318,"On Your Mark, Unicorns. Dropbox IPO Bodes Well -- Barrons.com",Dow Jones Institutional News,2/23/2018,501,Dropbox,0,0,0,0,0
+319,Orders pile up for Dropbox IPO,Reuters News,3/19/2018,240,Dropbox,0,0,0,0,0
+320,REFILE-Dropbox heads for trading debut after upsized IPO pricing,Reuters News,3/23/2018,473,Dropbox,0,0,0,0,0
+321,Review & Preview Follow-Up -- A Return Visit to Earlier Stories: Dropbox IPO Filing Is Good News -- Barron's,Dow Jones Institutional News,2/24/2018,518,Dropbox,0,0,1,1,0
+322,Salesforce invests as Dropbox IPO values storage vendor at $7B,ARN (Australian Reseller News),3/13/2018,509,Dropbox,0,0,0,2,0
+323,Seattle venture firms see 700X return on DocuSign investment with IPO,Puget Sound Business Journal,4/27/2018,863,Docusign,2,0,0,0,0
+324,Shares of Dropbox soar 37 percent on its 1st day of trading in the biggest tech IPO of 2018,San Francisco Business Times Online,3/23/2018,567,Dropbox,0,0,0,0,0
+325,Shares of Dropbox soar 37% in first day of trading in 2018's biggest tech IPO so far,Austin Business Journal Online,3/25/2018,579,Dropbox,2,0,0,0,0
+326,Silicon Valley Exhales: Dropbox Shares Jump More Than 40% In High-Demand IPO,Forbes.com,3/23/2018,967,Dropbox,0,0,0,0,0
+327,Silicon Valley Exhales: Dropbox Shares Jump More Than 40% In High-Demand IPO,Forbes.com,3/23/2018,966,Dropbox,0,0,0,0,0
+328,"Tech Trader Daily: Confidentially, Dropbox Files For IPO: Report -- Barron's Blog",Dow Jones Institutional News,1/11/2018,311,Dropbox,0,0,0,0,0
+329,"Tech Trader Daily: DocuSign, Ceridian, Smartsheet, nLight: Biggest Tech IPO Week in Years -- Barron's Blog",Dow Jones Institutional News,4/27/2018,912,Docusign,0,0,0,0,0
+330,Tech Trader Daily: Dropbox Earnings: Files a Win in First Earnings Since IPO -- Barron's Blog,Dow Jones Institutional News,5/10/2018,255,Dropbox,0,0,0,0,0
+331,"Tech Trader Daily: Dropbox Prices IPO at $21, Above Expected Range: CNBC -- Barron's Blog",Dow Jones Institutional News,3/22/2018,119,Dropbox,0,0,0,0,0
+332,Tech Trader Daily: Why Dropbox's IPO Makes Some VCs Giddy: The View From Silicon Valley -- Barron's Blog,Dow Jones Institutional News,3/26/2018,491,Dropbox,0,0,0,0,0
+333,Tech unicorn Dropbox files for US IPO,The Telegraph Online,2/23/2018,361,Dropbox,0,0,0,0,0
+334,"Tech Unicorns Arrive As Zscaler, Dropbox, Spotify Prepare IPO Debuts",Investor's Business Daily,3/14/2018,598,Dropbox,0,0,0,0,0
+335,"Tech Unicorns Arrive As Zscaler, Dropbox, Spotify Prepare IPO Debuts",Investor's Business Daily,3/14/2018,598,Dropbox,0,0,0,0,0
+336,TECHNOLOGY; Dropbox IPO target falls short of private value,Los Angeles Times,3/13/2018,338,Dropbox,0,2,0,0,0
+337,TECHNOLOGY; Shares soar after Dropbox's IPO; Trading gives the San Francisco file-sharing firm a valuation of more than $12 billion.,Los Angeles Times,3/24/2018,1140,Dropbox,2,0,0,0,0
+338,The Dropbox IPO: Everything You Need To Know,Benzinga.com,3/14/2018,738,Dropbox,2,0,0,0,0
+339,"The Funded: DocuSign, Unity Biotechnology update their IPO targets",Silicon Valley/San Jose Business Journal Online,4/25/2018,698,Docusign,0,0,0,0,0
+340,"The IPO Class Of 2018: Spotify, Dropbox And Other Unicorns Take Center Stage",Forbes.com,1/12/2018,846,Dropbox,0,0,0,0,0
+341,"The tech IPO market is back, thanks to boring, old cloud-software companies; Opinion: DocuSign, Smartsheet and Ceridian are latest niche,...",MarketWatch,5/1/2018,1258,Docusign,0,0,0,0,2
+342,"The Week Ahead: Sohn Conference, FANG Earnings, DocuSign IPO",Benzinga.com,4/23/2018,635,Docusign,0,0,0,0,0
+343,"This IPO Stock Looks to Join Peers Dropbox, Canada Goose With Breakouts",Investor's Business Daily,6/22/2018,407,Dropbox,2,0,0,0,0
+344,"Trump Warns of ""Phase Two"" if North Korea Sanctions Fail; Major Companies Pull Support from NRA; Dropbox Files for IPO as Stock Soar; F...",CNN International: Quest Means Business,2/23/2018,8654,Dropbox,2,0,0,2,0
+345,"United States : Simpson Thacher Represents the Underwriters in the IPO and Green Shoe Option of Dropbox, Inc.",FARS News Agency,4/4/2018,242,Dropbox,0,0,0,0,0
+346,"UPDATE -- Dropbox, Inc. (Nasdaq: DBX) to Ring the Nasdaq Stock Market Opening Bell in Celebration of Its IPO",GlobeNewswire,3/23/2018,512,Dropbox,0,0,0,0,0
+347,UPDATE 1-Dropbox files confidentially for U.S. IPO - source,Reuters News,1/11/2018,152,Dropbox,0,0,0,0,0
+348,UPDATE 1-Dropbox IPO oversubscribed - sources,Reuters News,3/19/2018,491,Dropbox,0,0,0,0,0
+349,UPDATE 2-Dropbox files for IPO of up to $500 million,Reuters News,2/23/2018,334,Dropbox,0,0,0,0,0
+350,UPDATE 2-Dropbox IPO priced higher than expected on strong demand,Reuters News,3/22/2018,438,Dropbox,0,0,2,0,0
+351,UPDATE 2-Dropbox tops estimates in first results since IPO,Reuters News,5/10/2018,355,Dropbox,0,0,0,0,0
+352,UPDATE 4-Dropbox IPO price range puts valuation nearly a third below peak,Reuters News,3/12/2018,797,Dropbox,0,0,0,0,0
+353,UPDATE 4-Dropbox raises IPO price range by $2 on strong demand,Reuters News,3/21/2018,477,Dropbox,0,0,2,0,0
+354,Update: DocuSign Files For IPO -- MarketWatch,Dow Jones Institutional News,3/28/2018,148,Docusign,0,0,0,0,0
+355,"Update: Dropbox Prices IPO At $21, Higher Than Expected: Report -- MarketWatch",Dow Jones Institutional News,3/22/2018,147,Dropbox,0,0,0,0,0
+356,US DocuSign prices IPO above initial range,SeeNews Deals,4/27/2018,212,Docusign,0,0,1,0,0
+357,"US Dropbox hires book-runners, files for IPO - report",SeeNews Deals,1/12/2018,201,Dropbox,0,0,0,0,0
+358,US Dropbox is preparing IPO,German Collection,7/5/2017,124,Dropbox,0,0,0,0,0
+359,US Dropbox now eyes USD 720m in IPO proceeds,SeeNews Deals,3/21/2018,175,Dropbox,0,0,0,0,0
+360,US Dropbox prices IPO above initial range,SeeNews Deals,3/23/2018,162,Dropbox,0,0,1,0,0
+361,Web-Storage Company Dropbox Files for IPO,The Wall Street Journal,1/12/2018,288,Dropbox,0,0,0,0,0
+362,Web-Storage Company Dropbox Files for IPO -- WSJ,Dow Jones Institutional News,1/12/2018,630,Dropbox,0,0,0,0,0
+363,Where The Dropbox IPO Ranks Among Recent Tech Offerings,Benzinga.com,3/23/2018,288,Dropbox,0,0,0,0,0
+364,Why Dropbox's IPO is a software winner on Wall Street,Khaleej Times,2/25/2018,809,Dropbox,0,0,0,0,0
+365,"With Dropbox arriving, how cloud storage stacks up; IPO newcomer has buzz, but maybe not the terms",Journal & Courier,3/23/2018,376,Dropbox,2,0,0,0,0
+366,"With IPO looming, what to make of Dropbox?",The National,3/1/2018,790,Dropbox,0,0,0,0,0
