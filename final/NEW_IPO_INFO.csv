@@ -1,0 +1,17 @@
+,Ticker,Offer Date,Issuer,Offer Price,Open Price,1st Day Close,1st Day % Px Chng,$ Change Opening,$ Change Close,Mngr1,Mngr2,Mngr3,Mngr4,Mngr5,Mngr6,Offer Date +90,Date,Close +90,% Px Chng +90,Label
+0,FB,2012-05-18,Facebook ,38,42.0,38.23,0.006052631578947286,4.0,0.2299999999999969,Morgan Stanley,J.P. Morgan,Goldman Sachs,,,,2012-08-16,2012-08-16,19.87,-0.4802511116923881,Negative
+1,LNKD,2011-05-19,LinkedIn ,45,83.0,94.25,1.0944444444444446,38.0,49.25,Morgan Stanley,BofA Merrill Lynch,J.P.Morgan,,,,2011-08-17,2011-08-17,81.75,-0.13262599469496023,Negative
+2,GRPN,2011-11-04,Groupon ,20,28.0,26.11,0.3055,8.0,6.1099999999999985,Morgan Stanley,Goldman Sachs,Credit Suisse,,,,2012-02-02,2012-02-02,23.08,-0.11604749138261207,Negative
+3,SNAP,2017-03-02,Snap ,17,23.71,24.48,0.44,6.710000000000001,7.48,Morgan Stanley,Goldman Sachs,J. P. Morgan,Deutsche Bank Securities,,,2017-05-31,2017-05-31,21.21,-0.133578431372549,Negative
+4,TWTR,2013-11-07,Twitter  ,26,45.1,44.9,0.7269230769230769,19.1,18.9,Goldman Sachs,Morgan Stanley,J.P. Morgan,BofA Merrill Lynch,Deutsche Bank Securities,,2014-02-05,2014-02-05,65.97,0.4692650334075724,Positive
+5,BABA,2014-09-19,Alibaba Group Holding  ,68,92.7,93.89,0.3807352941176471,24.700000000000006,25.89,Credit Suisse,Deutsche Bank Securities,Goldman Sachs,J.P. Morgan,Morgan Stanley,Citigroup,2014-12-18,2014-12-18,109.25,0.1635956970923421,Positive
+6,ETSY,2015-04-16,Etsy ,16,31.0,30.0,0.875,15.0,14.0,Goldman Sachs,,,,,,2015-07-15,2015-07-15,16.82,-0.4393333333333333,Negative
+7,FIT,2015-06-18,Fitbit  ,20,30.4,29.68,0.484,10.4,9.68,Morgan Stanley,Deutsche Bank Securities,BofA Merrill Lynch,,,,2015-09-16,2015-09-16,37.1,0.25000000000000006,Positive
+8,WDAY,2012-10-12,Workday ,28,48.05,48.69,0.7389285714285714,20.05,20.69,Morgan Stanley,Goldman Sachs,,,,,2013-01-10,2013-01-10,53.2,0.09262682275621288,Positive
+9,GPRO,2014-06-26,GoPro   ,24,28.65,31.34,0.3058333333333333,4.649999999999999,7.34,J.P. Morgan,Citigroup,Barclays,,,,2014-09-24,2014-09-24,78.46,1.5035098915124439,Positive
+10,APRN,2017-06-29,Blue Apron Holdings ,10,10.0,10.0,0.0,0.0,0.0,Goldman Sachs,Morgan Stanley,Citigroup,Barclays,,,2017-09-27,2017-09-27,5.8,-0.42000000000000004,Negative
+11,RACE,2015-10-21,Ferrari N.V. ,52,60.0,55.0,0.0576923076923077,8.0,3.0,UBS Investment Bank,BofA Merrill Lynch,Santander,,,,2016-01-19,2016-01-19,41.67,-0.24236363636363634,Negative
+12,GM,2010-11-18,General Motors Company ,33,35.0,34.19,0.036060606060606,2.0,1.1899999999999975,Morgan Stanley,J.P. Morgan,BofA Merrill Lynch,Citigroup,,,2011-02-16,2011-02-16,36.75,0.07487569464755783,Positive
+13,SHAK,2015-01-30,Shake Shack ,21,47.0,45.9,1.1857142857142855,26.0,24.9,J.P. Morgan,Morgan Stanley,,,,,2015-04-30,2015-04-30,68.75,0.49782135076252726,Positive
+14,SFIX,2017-11-17,Stitch Fix ,15,16.9,15.15,0.010000000000000023,1.8999999999999984,0.15000000000000036,Goldman Sachs,J.P.Morgan,,,,,2018-02-15,2018-02-15,20.82,0.37425742574257426,Positive
+15,TSLA,2010-06-29,Tesla Motors ,17,19.0,23.98,0.4105882352941177,2.0,6.98,Goldman Sachs,Morgan Stanley,J.P. Morgan,Deutsche Bank Securities,,,2010-09-27,2010-09-27,20.53,-0.14386989157631355,Negative

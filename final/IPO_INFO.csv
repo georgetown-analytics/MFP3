@@ -1,0 +1,17 @@
+Symbol|Date|Issuer|Managers|Offer Price|Open Price|1st Day Close|1st Day % Px Chng|$ Change Opening|$ Change Close|Ratings|Performed
+FB|2012-05-18 00:00:00|Facebook |Morgan Stanley/ J.P. Morgan/ Goldman, Sachs|38|42|38.23|0.006052631578947286|4|0.22999999999999687|4|
+LNKD|2011-05-19 00:00:00|LinkedIn |Morgan Stanley/ BofA Merrill Lynch /J..P. Morgan Securities|45|83|94.25|1.0944444444444446|38|49.25|3|
+GRPN|2011-11-04 00:00:00|Groupon |Morgan Stanley/ Goldman, Sachs/ Credit Suisse|20|28|26.11|0.3055|8|6.109999999999999|3|
+SNAP|2017-03-02 00:00:00|Snap |Morgan Stanley/ Goldma Sachs/ J. P. Morgan/ Deutsche Bank Securities|17|23.71|24.48|0.44|6.710000000000001|7.48|3|
+TWTR|2013-11-07 00:00:00|Twitter  |Goldman Sachs/ Morgan Stanley/ J.P. Morgan/ BofA Merrill Lynch/ Deutsche Bank Securities|26|45.1|44.9|0.7269230769230769|19.1|18.9|3|
+BABA|2014-09-19 00:00:00|Alibaba Group Holding  |Credit Suisse/ Deutsche Bank Securities/ Goldman Sachs/ J.P. Morgan/ Morgan Stanley/ Citi|68|92.7|93.89|0.38073529411764706|24.700000000000003|25.89|4|
+ETSY|2015-04-16 00:00:00|Etsy |Goldman Sachs|16|31|30|0.875|15|14|3|
+FIT|2015-06-18 00:00:00|Fitbit  |Morgan Stanley/ Deutsche Bank Securities/ BofAMerrill Lynch|20|30.4|29.68|0.484|10.399999999999999|9.68|4|
+WDAY|2012-10-12 00:00:00|Workday |Morgan Stanley/ Goldman, Sachs|28|48.05|48.69|0.7389285714285714|20.049999999999997|20.689999999999998|3|
+GPRO|2014-06-26 00:00:00|GoPro   |J.P. Morgan/ Citigroup/ Barclays|24|28.65|31.34|0.30583333333333335|4.649999999999999|7.34|3|
+APRN|2017-06-29 00:00:00|Blue Apron Holdings |Goldman Sachs/ Morgan Stanley/ Citigroup/ Barclays|10|10|10|0|0|0|1|
+RACE|2015-10-21 00:00:00|Ferrari N.V. |UBS Investment Bank/ BofA Merrill Lynch/ Santander|52|60|55|0.057692307692307696|8|3|3|
+GM|2010-11-18 00:00:00|General Motors Company |Morgan Stanley/ J.P. Morgan/ BofA Merrill Lynch/ Citi|33|35|34.19|0.036060606060605994|2|1.1899999999999977|3|
+SHAK|2015-01-30 00:00:00|Shake Shack |J.P. Morgan/ Morgan Stanley|21|47|45.9|1.1857142857142857|26|24.9|3|
+SFIX|2017-11-17 00:00:00|Stitch Fix |Goldman Sachs/ J.P. Morgan Securities|15|16.9|15.15|0.010000000000000024|1.8999999999999986|0.15000000000000036|1|
+TSLA|2010-06-29 00:00:00|Tesla Motors |Goldman, Sachs/ Morgan Stanley/ J.P. Morgan/ Deutsche Bank Securities|17|19|23.98|0.4105882352941177|2|6.98|3|
